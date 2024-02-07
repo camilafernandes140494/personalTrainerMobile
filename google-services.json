@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "746322051726",
+    "firebase_url": "https://personal-trainer-mobile-default-rtdb.firebaseio.com",
+    "project_id": "personal-trainer-mobile",
+    "storage_bucket": "personal-trainer-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746322051726:android:7495a04981e79e24a07fdf",
+        "android_client_info": {
+          "package_name": "personal.trainer.mobile.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMZ5cUB386KTgdJbxj2BHZpdZx_x2mVVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
